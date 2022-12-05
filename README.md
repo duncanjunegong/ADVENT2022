@@ -1,2 +1,2 @@
 # ADVENT2022
-Code for Advent of code
+Code for Advent of code 2022
